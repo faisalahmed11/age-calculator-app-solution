@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
 //variables
 $purple: hsl(259, 100%, 65%);
 $font-clr: hsl(0, 1%, 44%);
@@ -7,7 +8,7 @@ $border-clr: lightgray;
   background-color: hsl(0, 0%, 94%);
   min-height: 100svh;
   display: grid;
-  font-family:Poppins,sans-serif;
+ font-family: 'Poppins', sans-serif;
   place-items: center;
   position: relative;
 
